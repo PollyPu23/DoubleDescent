@@ -1,0 +1,802 @@
+,Pre,Post
+0,PctKids2Par_8,pctUrban PctUnemployed
+1,MalePctDivorce PctPersDenseHous,racepctblack PctWOFullPlumb
+2,racepctblack_3,racepctblack_5
+3,racepctblack PctHousLess3BR,racepctblack agePct65up
+4,pctUrban PctIlleg,racepctblack pctUrban
+5,MalePctDivorce PctIlleg,racePctHisp PctPersOwnOccup
+6,NumStreet_3,pctWInvInc pctWPubAsst
+7,racePctWhite PctHousOccup,pctWRetire_9
+8,pctWPubAsst MedRent,PctUsePubTrans LemasPctOfficDrugUn
+9,HousVacant_3,blackPerCap PctLess9thGrade
+10,FemalePctDiv PctIlleg,PctNotSpeakEnglWell LandArea
+11,PctPopUnderPov_5,AsianPerCap PopDens
+12,PctKids2Par,MedNumBR PctVacantBoarded
+13,PctIlleg PctHousLess3BR,pctUrban pctWFarmSelf
+14,PctVacantBoarded_10,PctVacantBoarded MedOwnCostPctInc
+15,pctWPubAsst HispPerCap,PctKids2Par MedYrHousBuilt
+16,PctPopUnderPov MedRent,PctImmigRecent_9
+17,agePct12t29 pctWInvInc,PctImmigRec8 MedOwnCostPctInc
+18,pctUrban pctWPubAsst,PctBSorMore NumStreet
+19,racePctWhite agePct12t29,AsianPerCap PctWOFullPlumb
+20,PctHousNoPhone MedRent,agePct16t24 pctWPubAsst
+21,pctWInvInc MedOwnCostPctIncNoMtg,NumImmig MedOwnCostPctIncNoMtg
+22,FemalePctDiv PctHousLess3BR,racepctblack PctForeignBorn
+23,pctWPubAsst AsianPerCap,PctWOFullPlumb LandArea
+24,HispPerCap HousVacant,pctWPubAsst PctUsePubTrans
+25,FemalePctDiv MedRentPctHousInc,pctWWage PctUnemployed
+26,TotalPctDiv MedRentPctHousInc,racepctblack PctOccupManu
+27,PctKids2Par.1,MedNumBR NumInShelters
+28,indianPerCap HousVacant,PctWOFullPlumb MedRent
+29,TotalPctDiv PctHousLess3BR,MalePctDivorce PctUsePubTrans
+30,NumUnderPov_5,AsianPerCap MedRentPctHousInc
+31,MalePctDivorce HousVacant,MedYrHousBuilt PctHousNoPhone
+32,MalePctDivorce PctVacantBoarded,MedOwnCostPctIncNoMtg LemasPctOfficDrugUn
+33,pctUrban PctUnemployed,MedOwnCostPctIncNoMtg PopDens
+34,racepctblack PctWOFullPlumb,pctWFarmSelf PctWOFullPlumb
+35,racepctblack_5,pctUrban HispPerCap
+36,racepctblack agePct65up,pctUrban AsianPerCap
+37,racepctblack pctUrban,PctRecImmig8 MedRentPctHousInc
+38,racePctHisp PctPersOwnOccup,PctRecImmig8 PctSameState85
+39,pctWInvInc pctWPubAsst,PctWorkMom OwnOccLowQuart
+40,pctWRetire_9,MedNumBR LemasPctOfficDrugUn
+41,PctUsePubTrans LemasPctOfficDrugUn,PctUsePubTrans_10
+42,blackPerCap PctLess9thGrade,racePctHisp MedNumBR
+43,PctNotSpeakEnglWell LandArea,MalePctDivorce PctHousOccup
+44,AsianPerCap PopDens,PctBSorMore PctWOFullPlumb
+45,MedNumBR PctVacantBoarded,PctWOFullPlumb LemasPctOfficDrugUn
+46,pctUrban pctWFarmSelf,PctOccupMgmtProf MedRentPctHousInc
+47,PctVacantBoarded MedOwnCostPctInc,PctImmigRec10 PctWOFullPlumb
+48,PctKids2Par MedYrHousBuilt,racePctAsian PctSpeakEnglOnly
+49,PctImmigRecent_9,LandArea_10
+50,PctImmigRec8 MedOwnCostPctInc,PctUnemployed PctHousNoPhone
+51,PctBSorMore NumStreet,PctPopUnderPov_10
+52,AsianPerCap PctWOFullPlumb,MedYrHousBuilt NumStreet
+53,agePct16t24 pctWPubAsst,racePctAsian indianPerCap
+54,NumImmig MedOwnCostPctIncNoMtg,AsianPerCap PctImmigRecent
+55,racepctblack PctForeignBorn,AsianPerCap PctWorkMomYoungKids
+56,PctWOFullPlumb LandArea,pctWFarmSelf PctImmigRecent
+57,pctWPubAsst PctUsePubTrans,PctImmigRec10 PctVacantBoarded
+58,pctWWage PctUnemployed,MedNumBR PctHousNoPhone
+59,racepctblack PctOccupManu,HispPerCap PctWOFullPlumb
+60,MedNumBR NumInShelters,pctUrban PctEmplProfServ
+61,PctWOFullPlumb MedRent,PctIlleg PctVacantBoarded
+62,MalePctDivorce PctUsePubTrans,PctEmplManu FemalePctDiv
+63,AsianPerCap MedRentPctHousInc,MedRentPctHousInc MedOwnCostPctIncNoMtg
+64,MedYrHousBuilt PctHousNoPhone,pctWPubAsst PctEmplManu
+65,MedOwnCostPctIncNoMtg LemasPctOfficDrugUn,PctHousOccup MedRentPctHousInc
+66,MedOwnCostPctIncNoMtg PopDens,pctWPubAsst PctImmigRec8
+67,pctWFarmSelf PctWOFullPlumb,AsianPerCap_9
+68,pctUrban HispPerCap,indianPerCap PctVacantBoarded
+69,pctUrban AsianPerCap,PctOccupManu MedOwnCostPctIncNoMtg
+70,PctRecImmig8 MedRentPctHousInc,pctWFarmSelf NumInShelters
+71,PctRecImmig8 PctSameState85,pctUrban PctVacantBoarded
+72,PctWorkMom OwnOccLowQuart,racePctAsian PctVacantBoarded
+73,MedNumBR LemasPctOfficDrugUn,NumImmig_9
+74,PctUsePubTrans_10,householdsize pctUrban
+75,racePctHisp MedNumBR,PctTeen2Par PctVacantBoarded
+76,MalePctDivorce PctHousOccup,MalePctDivorce MedNumBR
+77,PctBSorMore PctWOFullPlumb,PctHousOccup LandArea
+78,PctWOFullPlumb LemasPctOfficDrugUn,OwnOccLowQuart NumStreet
+79,PctOccupMgmtProf MedRentPctHousInc,HispPerCap PctLess9thGrade
+80,PctImmigRec10 PctWOFullPlumb,racepctblack PctKids2Par
+81,racePctAsian PctSpeakEnglOnly,PctEmplManu PctWOFullPlumb
+82,LandArea_10,MedNumBR MedRentPctHousInc
+83,PctUnemployed PctHousNoPhone,racepctblack PctSameHouse85
+84,PctPopUnderPov_10,PctHousNoPhone OwnOccLowQuart
+85,MedYrHousBuilt NumStreet,PctImmigRec10 PctVacMore6Mos
+86,racePctAsian indianPerCap,PctLargHouseFam PctHousNoPhone
+87,AsianPerCap PctImmigRecent,pctWWage PctOccupManu
+88,AsianPerCap PctWorkMomYoungKids,PctEmplManu MedRentPctHousInc
+89,pctWFarmSelf PctImmigRecent,racePctAsian LandArea
+90,PctImmigRec10 PctVacantBoarded,MedYrHousBuilt PctWOFullPlumb
+91,MedNumBR PctHousNoPhone,PctYoungKids2Par_10
+92,HispPerCap PctWOFullPlumb,PctWorkMom MedYrHousBuilt
+93,pctUrban PctEmplProfServ,indianPerCap PctWorkMom
+94,PctIlleg PctVacantBoarded,MedOwnCostPctInc PctBornSameState
+95,PctEmplManu FemalePctDiv,PctLess9thGrade NumIlleg
+96,MedRentPctHousInc MedOwnCostPctIncNoMtg,pctWRetire PctPopUnderPov
+97,pctWPubAsst PctEmplManu,racepctblack RentMedian
+98,PctHousOccup MedRentPctHousInc,racePctHisp NumStreet
+99,pctWPubAsst PctImmigRec8,AsianPerCap MalePctDivorce
+100,AsianPerCap_9,PctLess9thGrade PctYoungKids2Par
+101,indianPerCap PctVacantBoarded,pctWWage PctVacantBoarded
+102,PctOccupManu MedOwnCostPctIncNoMtg,pctUrban MalePctDivorce
+103,pctWFarmSelf NumInShelters,PctImmigRecent PctImmigRec10
+104,pctUrban PctVacantBoarded,PctWorkMomYoungKids_10
+105,racePctAsian PctVacantBoarded,PctRecentImmig MedNumBR
+106,NumImmig_9,racepctblack blackPerCap
+107,householdsize pctUrban,NumImmig MedNumBR
+108,PctTeen2Par PctVacantBoarded,agePct16t24 PctWOFullPlumb
+109,MalePctDivorce MedNumBR,FemalePctDiv PctWorkMomYoungKids
+110,PctHousOccup LandArea,OwnOccLowQuart_10
+111,OwnOccLowQuart NumStreet,MedRentPctHousInc_10
+112,HispPerCap PctLess9thGrade,PctUnemployed_10
+113,racepctblack PctKids2Par,racePctWhite PctPersDenseHous
+114,PctEmplManu PctWOFullPlumb,AsianPerCap PctRecImmig5
+115,MedNumBR MedRentPctHousInc,medIncome PctUnemployed
+116,racepctblack PctSameHouse85,pctWFarmSelf PctSameState85
+117,PctHousNoPhone OwnOccLowQuart,pctWFarmSelf LemasPctOfficDrugUn
+118,PctImmigRec10 PctVacMore6Mos,pctWPubAsst PctEmploy
+119,PctLargHouseFam PctHousNoPhone,pctWPubAsst PctWorkMomYoungKids
+120,pctWWage PctOccupManu,PctBSorMore NumIlleg
+121,PctEmplManu MedRentPctHousInc,blackPerCap indianPerCap
+122,racePctAsian LandArea,racePctAsian NumStreet
+123,MedYrHousBuilt PctWOFullPlumb,racePctWhite_10
+124,PctYoungKids2Par_10,AsianPerCap HousVacant
+125,PctWorkMom MedYrHousBuilt,MedNumBR PctHousOwnOcc
+126,indianPerCap PctWorkMom,NumStreet LemasPctOfficDrugUn
+127,MedOwnCostPctInc PctBornSameState,PctVacantBoarded PctBornSameState
+128,PctLess9thGrade NumIlleg,PctSpeakEnglOnly MedRentPctHousInc
+129,pctWRetire PctPopUnderPov,PctRecImmig8_9
+130,racepctblack RentMedian,PctEmploy PctWOFullPlumb
+131,racePctHisp NumStreet,racePctAsian MedNumBR
+132,AsianPerCap MalePctDivorce,PctUnemployed PctEmplManu
+133,PctLess9thGrade PctYoungKids2Par,PctWorkMom MedOwnCostPctInc
+134,pctWWage PctVacantBoarded,pctWFarmSelf PctEmplManu
+135,pctUrban MalePctDivorce,NumStreet PctBornSameState
+136,PctImmigRecent PctImmigRec10,PctSameHouse85_10
+137,PctWorkMomYoungKids_10,PctPopUnderPov PctEmplManu
+138,PctRecentImmig MedNumBR,PctUnemployed MedNumBR
+139,racepctblack blackPerCap,PctWOFullPlumb MedOwnCostPctInc
+140,NumImmig MedNumBR,NumImmig OwnOccHiQuart
+141,agePct16t24 PctWOFullPlumb,PctWOFullPlumb_5
+142,FemalePctDiv PctWorkMomYoungKids,PctOccupManu LandArea
+143,OwnOccLowQuart_10,blackPerCap MedOwnCostPctIncNoMtg
+144,MedRentPctHousInc_10,AsianPerCap HispPerCap
+145,PctUnemployed_10,PctImmigRecent NumStreet
+146,racePctWhite PctPersDenseHous,racePctWhite_9
+147,AsianPerCap PctRecImmig5,LandArea PopDens
+148,medIncome PctUnemployed,PctHousOccup LemasPctOfficDrugUn
+149,pctWFarmSelf PctSameState85,PctImmigRec8 PctLargHouseFam
+150,pctWFarmSelf LemasPctOfficDrugUn,PctImmigRec5_9
+151,pctWPubAsst PctEmploy,pctWRetire PctEmploy
+152,pctWPubAsst PctWorkMomYoungKids,racePctWhite PctLargHouseFam
+153,PctBSorMore NumIlleg,PctBSorMore PctOccupManu
+154,blackPerCap indianPerCap,indianPerCap PctNotSpeakEnglWell
+155,racePctAsian NumStreet,PopDens_10
+156,racePctWhite_10,PctIlleg PctImmigRecent
+157,AsianPerCap HousVacant,pctWRetire PctPersDenseHous
+158,MedNumBR PctHousOwnOcc,pctWFarmSelf indianPerCap
+159,NumStreet LemasPctOfficDrugUn,AsianPerCap PctYoungKids2Par
+160,PctVacantBoarded PctBornSameState,pctWPubAsst PctTeen2Par
+161,PctSpeakEnglOnly MedRentPctHousInc,PctUnemployed PctPersDenseHous
+162,PctRecImmig8_9,racepctblack OwnOccMedVal
+163,PctEmploy PctWOFullPlumb,AsianPerCap MedNumBR
+164,racePctAsian MedNumBR,MedRentPctHousInc PctSameCity85
+165,PctUnemployed PctEmplManu,racepctblack pctWFarmSelf
+166,PctWorkMom MedOwnCostPctInc,PctEmplProfServ PctImmigRecent
+167,pctWFarmSelf PctEmplManu,PctEmplProfServ PctWOFullPlumb
+168,NumStreet PctBornSameState,PctEmplManu PctYoungKids2Par
+169,PctSameHouse85_10,agePct65up HispPerCap
+170,PctPopUnderPov PctEmplManu,PctTeen2Par PersPerRentOccHous
+171,PctUnemployed MedNumBR,agePct12t21_5
+172,PctWOFullPlumb MedOwnCostPctInc,PctWorkMomYoungKids MedNumBR
+173,NumImmig OwnOccHiQuart,PctPopUnderPov RentMedian
+174,PctWOFullPlumb_5,pctWSocSec indianPerCap
+175,PctOccupManu LandArea,PctIlleg OwnOccHiQuart
+176,blackPerCap MedOwnCostPctIncNoMtg,indianPerCap PctWOFullPlumb
+177,AsianPerCap HispPerCap,AsianPerCap MedOwnCostPctIncNoMtg
+178,PctImmigRecent NumStreet,HispPerCap NumInShelters
+179,racePctWhite_9,PctEmplProfServ MedNumBR
+180,LandArea PopDens,PctTeen2Par PctWOFullPlumb
+181,PctHousOccup LemasPctOfficDrugUn,PctImmigRec8 LandArea
+182,PctImmigRec8 PctLargHouseFam,racepctblack MedYrHousBuilt
+183,PctImmigRec5_9,PctImmigRecent PctUsePubTrans
+184,pctWRetire PctEmploy,agePct16t24 HispPerCap
+185,racePctWhite PctLargHouseFam,FemalePctDiv PctHousNoPhone
+186,PctBSorMore PctOccupManu,pctWRetire_10
+187,indianPerCap PctNotSpeakEnglWell,PctVacantBoarded MedRent
+188,PopDens_10,agePct16t24 indianPerCap
+189,PctIlleg PctImmigRecent,PctLess9thGrade LandArea
+190,pctWRetire PctPersDenseHous,PctEmploy PctOccupManu
+191,pctWFarmSelf indianPerCap,PctEmplProfServ PctTeen2Par
+192,AsianPerCap PctYoungKids2Par,indianPerCap PctEmplProfServ
+193,pctWPubAsst PctTeen2Par,PctEmplManu PctImmigRec8
+194,PctUnemployed PctPersDenseHous,racepctblack AsianPerCap
+195,racepctblack OwnOccMedVal,racepctblack NumUnderPov
+196,AsianPerCap MedNumBR,racePctHisp PctBSorMore
+197,MedRentPctHousInc PctSameCity85,PctWorkMomYoungKids PctSameState85
+198,racepctblack pctWFarmSelf,indianPerCap PctHousOccup
+199,PctEmplProfServ PctImmigRecent,AsianPerCap PctImmigRec8
+200,PctEmplProfServ PctWOFullPlumb,PctYoungKids2Par PctVacMore6Mos
+201,PctEmplManu PctYoungKids2Par,AsianPerCap PctIlleg
+202,agePct65up HispPerCap,AsianPerCap NumIlleg
+203,PctTeen2Par PersPerRentOccHous,racepctblack PctPersDenseHous
+204,agePct12t21_5,pctUrban PctImmigRec5
+205,PctWorkMomYoungKids MedNumBR,indianPerCap PctHousLess3BR
+206,PctPopUnderPov RentMedian,agePct12t21 AsianPerCap
+207,pctWSocSec indianPerCap,numbUrban pctWInvInc
+208,PctIlleg OwnOccHiQuart,PctHousOccup PctUsePubTrans
+209,indianPerCap PctWOFullPlumb,NumIlleg LemasPctOfficDrugUn
+210,AsianPerCap MedOwnCostPctIncNoMtg,racePctHisp PctImmigRecent
+211,HispPerCap NumInShelters,racePctHisp PctNotSpeakEnglWell
+212,PctEmplProfServ MedNumBR,NumUnderPov MedNumBR
+213,PctTeen2Par PctWOFullPlumb,pctWInvInc HousVacant
+214,PctImmigRec8 LandArea,HispPerCap MedOwnCostPctIncNoMtg
+215,racepctblack MedYrHousBuilt,pctWFarmSelf AsianPerCap
+216,PctImmigRecent PctUsePubTrans,PctSameState85_10
+217,agePct16t24 HispPerCap,MedYrHousBuilt PctSameCity85
+218,FemalePctDiv PctHousNoPhone,racepctblack MedRent
+219,pctWRetire_10,PersPerRentOccHous_10
+220,PctVacantBoarded MedRent,HousVacant_10
+221,agePct16t24 indianPerCap,HousVacant PctSameState85
+222,PctLess9thGrade LandArea,pctWFarmSelf PctLess9thGrade
+223,PctEmploy PctOccupManu,HispPerCap PctImmigRecent
+224,PctEmplProfServ PctTeen2Par,PctUnemployed PctVacMore6Mos
+225,indianPerCap PctEmplProfServ,blackPerCap OwnOccLowQuart
+226,PctEmplManu PctImmigRec8,pctWSocSec PctPersOwnOccup
+227,racepctblack AsianPerCap,racePctHisp PctWOFullPlumb
+228,racepctblack NumUnderPov,racePctHisp PersPerRentOccHous
+229,racePctHisp PctBSorMore,PctRecentImmig LemasPctOfficDrugUn
+230,PctWorkMomYoungKids PctSameState85,pctWFarmSelf PctUsePubTrans
+231,indianPerCap PctHousOccup,pctWFarmSelf LandArea
+232,AsianPerCap PctImmigRec8,racePctAsian pctWFarmSelf
+233,PctYoungKids2Par PctVacMore6Mos,PctPersDenseHous NumInShelters
+234,AsianPerCap PctIlleg,racePctAsian PctVacMore6Mos
+235,AsianPerCap NumIlleg,racepctblack PctLess9thGrade
+236,racepctblack PctPersDenseHous,PctLargHouseFam LemasPctOfficDrugUn
+237,pctUrban PctImmigRec5,agePct12t21 PctEmploy
+238,indianPerCap PctHousLess3BR,PctWorkMomYoungKids PctImmigRecent
+239,agePct12t21 AsianPerCap,PctNotHSGrad PctSameCity85
+240,numbUrban pctWInvInc,MedRentPctHousInc_9
+241,PctHousOccup PctUsePubTrans,HispPerCap PctEmplManu
+242,NumIlleg LemasPctOfficDrugUn,PctHousOccup_10
+243,racePctHisp PctImmigRecent,PctWorkMomYoungKids PctImmigRec10
+244,racePctHisp PctNotSpeakEnglWell,AsianPerCap LandArea
+245,NumUnderPov MedNumBR,PctUnemployed PctImmigRec5
+246,pctWInvInc HousVacant,PctIlleg PctSameHouse85
+247,HispPerCap MedOwnCostPctIncNoMtg,AsianPerCap PctHousLess3BR
+248,pctWFarmSelf AsianPerCap,PctWorkMomYoungKids PctHousNoPhone
+249,PctSameState85_10,PctImmigRecent MedNumBR
+250,MedYrHousBuilt PctSameCity85,PctBSorMore MedOwnCostPctIncNoMtg
+251,racepctblack MedRent,PctBSorMore LemasPctOfficDrugUn
+252,PersPerRentOccHous_10,RentLowQ PctBornSameState
+253,HousVacant_10,PctUnemployed PctOccupMgmtProf
+254,HousVacant PctSameState85,householdsize pctWRetire
+255,pctWFarmSelf PctLess9thGrade,PctKids2Par PctImmigRec10
+256,HispPerCap PctImmigRecent,pctWWage_10
+257,PctUnemployed PctVacMore6Mos,whitePerCap MalePctDivorce
+258,blackPerCap OwnOccLowQuart,RentHighQ_10
+259,pctWSocSec PctPersOwnOccup,MedRentPctHousInc NumStreet
+260,racePctHisp PctWOFullPlumb,PctImmigRecent PctWOFullPlumb
+261,racePctHisp PersPerRentOccHous,PctEmploy PctSameState85
+262,PctRecentImmig LemasPctOfficDrugUn,HispPerCap PctSameState85
+263,pctWFarmSelf PctUsePubTrans,PctVacMore6Mos PctSameHouse85
+264,pctWFarmSelf LandArea,PctLess9thGrade_10
+265,racePctAsian pctWFarmSelf,racePctAsian agePct12t29
+266,PctPersDenseHous NumInShelters,PersPerFam PctFam2Par
+267,racePctAsian PctVacMore6Mos,PctHousNoPhone OwnOccHiQuart
+268,racepctblack PctLess9thGrade,PersPerRentOccHous_9
+269,PctLargHouseFam LemasPctOfficDrugUn,AsianPerCap MedOwnCostPctInc
+270,agePct12t21 PctEmploy,pctWPubAsst PctOccupMgmtProf
+271,PctWorkMomYoungKids PctImmigRecent,blackPerCap PctVacantBoarded
+272,PctNotHSGrad PctSameCity85,PctImmigRec10_10
+273,MedRentPctHousInc_9,PctImmigRecent PctImmigRec5
+274,HispPerCap PctEmplManu,PctBSorMore PctImmigRecent
+275,PctHousOccup_10,PctWOFullPlumb NumInShelters
+276,PctWorkMomYoungKids PctImmigRec10,AsianPerCap PctImmigRec5
+277,AsianPerCap LandArea,HousVacant LandArea
+278,PctUnemployed PctImmigRec5,PctImmigRecent MedYrHousBuilt
+279,PctIlleg PctSameHouse85,PctImmigRecent PctVacMore6Mos
+280,AsianPerCap PctHousLess3BR,PctWorkMomYoungKids PctSameHouse85
+281,PctWorkMomYoungKids PctHousNoPhone,medIncome pctWPubAsst
+282,PctImmigRecent MedNumBR,pctUrban PctUsePubTrans
+283,PctBSorMore MedOwnCostPctIncNoMtg,pctUrban PctBornSameState
+284,PctBSorMore LemasPctOfficDrugUn,PctImmigRecent MedRentPctHousInc
+285,RentLowQ PctBornSameState,MedYrHousBuilt MedRentPctHousInc
+286,PctUnemployed PctOccupMgmtProf,HousVacant PctHousOccup
+287,householdsize pctWRetire,PctEmplProfServ MedRentPctHousInc
+288,PctKids2Par PctImmigRec10,PctImmigRec8_10
+289,pctWWage_10,numbUrban PctEmploy
+290,whitePerCap MalePctDivorce,PctOccupMgmtProf PctRecImmig8
+291,RentHighQ_10,PctTeen2Par MedOwnCostPctInc
+292,MedRentPctHousInc NumStreet,agePct65up PctRecImmig10
+293,PctImmigRecent PctWOFullPlumb,NumIlleg_9
+294,PctEmploy PctSameState85,FemalePctDiv PctSameHouse85
+295,HispPerCap PctSameState85,agePct16t24 agePct65up
+296,PctVacMore6Mos PctSameHouse85,MedYrHousBuilt PctForeignBorn
+297,PctLess9thGrade_10,racePctAsian PctIlleg
+298,racePctAsian agePct12t29,PctBSorMore MalePctDivorce
+299,PersPerFam PctFam2Par,MedYrHousBuilt PctUsePubTrans
+300,PctHousNoPhone OwnOccHiQuart,pctWRetire PctImmigRec5
+301,PersPerRentOccHous_9,MedOwnCostPctInc NumInShelters
+302,AsianPerCap MedOwnCostPctInc,PctImmigRec8 PersPerRentOccHous
+303,pctWPubAsst PctOccupMgmtProf,medIncome_9
+304,blackPerCap PctVacantBoarded,PctWOFullPlumb PctSameCity85
+305,PctImmigRec10_10,PctSpeakEnglOnly MedNumBR
+306,PctImmigRecent PctImmigRec5,PctHousNoPhone LemasPctOfficDrugUn
+307,PctBSorMore PctImmigRecent,pctWRetire MedRentPctHousInc
+308,PctWOFullPlumb NumInShelters,pctWSocSec medFamInc
+309,AsianPerCap PctImmigRec5,MedRentPctHousInc PctUsePubTrans
+310,HousVacant LandArea,PctLargHouseFam MedNumBR
+311,PctImmigRecent MedYrHousBuilt,householdsize PctImmigRec10
+312,PctImmigRecent PctVacMore6Mos,MedYrHousBuilt LemasPctOfficDrugUn
+313,PctWorkMomYoungKids PctSameHouse85,PctLargHouseOccup PctVacMore6Mos
+314,medIncome pctWPubAsst,blackPerCap PctUsePubTrans
+315,pctUrban PctUsePubTrans,PctWorkMom PersPerRentOccHous
+316,pctUrban PctBornSameState,pctWWage PctImmigRec5
+317,PctImmigRecent MedRentPctHousInc,AsianPerCap PctOccupManu
+318,MedYrHousBuilt MedRentPctHousInc,pctWRetire NumStreet
+319,HousVacant PctHousOccup,PctOccupManu_9
+320,PctEmplProfServ MedRentPctHousInc,OwnOccHiQuart PctBornSameState
+321,PctImmigRec8_10,PopDens_9
+322,numbUrban PctEmploy,racePctAsian HispPerCap
+323,PctOccupMgmtProf PctRecImmig8,racePctWhite PctRecImmig5
+324,PctTeen2Par MedOwnCostPctInc,MedOwnCostPctInc PopDens
+325,agePct65up PctRecImmig10,MedOwnCostPctIncNoMtg_7
+326,NumIlleg_9,racePctAsian MedRent
+327,FemalePctDiv PctSameHouse85,MedYrHousBuilt_9
+328,agePct16t24 agePct65up,OwnOccMedVal_7
+329,MedYrHousBuilt PctForeignBorn,population pctWFarmSelf
+330,racePctAsian PctIlleg,PersPerFam PctVacantBoarded
+331,PctBSorMore MalePctDivorce,pctWSocSec MedOwnCostPctIncNoMtg
+332,MedYrHousBuilt PctUsePubTrans,PctNotHSGrad PctUsePubTrans
+333,pctWRetire PctImmigRec5,blackPerCap PopDens
+334,MedOwnCostPctInc NumInShelters,agePct12t21 PctOccupMgmtProf
+335,PctImmigRec8 PersPerRentOccHous,PctRecImmig5 PctVacantBoarded
+336,medIncome_9,pctWSocSec LemasPctOfficDrugUn
+337,PctWOFullPlumb PctSameCity85,PctLargHouseFam PctUsePubTrans
+338,PctSpeakEnglOnly MedNumBR,pctWFarmSelf PctEmplProfServ
+339,PctHousNoPhone LemasPctOfficDrugUn,NumImmig NumInShelters
+340,pctWRetire MedRentPctHousInc,PctIlleg PctHousOccup
+341,pctWSocSec medFamInc,agePct65up_10
+342,MedRentPctHousInc PctUsePubTrans,medFamInc PctRecImmig10
+343,PctLargHouseFam MedNumBR,PctBSorMore TotalPctDiv
+344,householdsize PctImmigRec10,MedNumBR PctForeignBorn
+345,MedYrHousBuilt LemasPctOfficDrugUn,PctUnemployed MalePctDivorce
+346,PctLargHouseOccup PctVacMore6Mos,MedNumBR PctBornSameState
+347,blackPerCap PctUsePubTrans,blackPerCap MalePctNevMarr
+348,PctWorkMom PersPerRentOccHous,MedNumBR PctSameHouse85
+349,pctWWage PctImmigRec5,PctEmplManu PctVacantBoarded
+350,AsianPerCap PctOccupManu,HousVacant PctVacantBoarded
+351,pctWRetire NumStreet,PctEmplProfServ NumIlleg
+352,PctOccupManu_9,PctEmplProfServ PctSameHouse85
+353,OwnOccHiQuart PctBornSameState,PctEmplManu PctEmplProfServ
+354,PopDens_9,blackPerCap PctVacMore6Mos
+355,racePctAsian HispPerCap,MalePctNevMarr PctBornSameState
+356,racePctWhite PctRecImmig5,PctYoungKids2Par LemasPctOfficDrugUn
+357,MedOwnCostPctInc PopDens,indianPerCap MedYrHousBuilt
+358,MedOwnCostPctIncNoMtg_7,PctSameHouse85 LemasPctOfficDrugUn
+359,racePctAsian MedRent,PctBornSameState LemasPctOfficDrugUn
+360,MedYrHousBuilt_9,indianPerCap NumInShelters
+361,OwnOccMedVal_7,pctWWage_9
+362,population pctWFarmSelf,population MedOwnCostPctIncNoMtg
+363,PersPerFam PctVacantBoarded,MalePctDivorce PctWOFullPlumb
+364,pctWSocSec MedOwnCostPctIncNoMtg,PctOccupManu PctWorkMom
+365,PctNotHSGrad PctUsePubTrans,PctIlleg MedRent
+366,blackPerCap PopDens,PctPopUnderPov MedOwnCostPctIncNoMtg
+367,agePct12t21 PctOccupMgmtProf,PctNotHSGrad MedNumBR
+368,PctRecImmig5 PctVacantBoarded,PctEmplManu PctUsePubTrans
+369,pctWSocSec LemasPctOfficDrugUn,population PctBornSameState
+370,PctLargHouseFam PctUsePubTrans,agePct12t21 PctForeignBorn
+371,pctWFarmSelf PctEmplProfServ,OwnOccHiQuart LandArea
+372,NumImmig NumInShelters,pctWRetire PctForeignBorn
+373,PctIlleg PctHousOccup,PctHousOccup PctWOFullPlumb
+374,agePct65up_10,agePct65up OwnOccLowQuart
+375,medFamInc PctRecImmig10,pctUrban pctWRetire
+376,PctBSorMore TotalPctDiv,HousVacant OwnOccHiQuart
+377,MedNumBR PctForeignBorn,pctUrban PctEmplManu
+378,PctUnemployed MalePctDivorce,MedYrHousBuilt MedOwnCostPctIncNoMtg
+379,MedNumBR PctBornSameState,medIncome PctNotHSGrad
+380,blackPerCap MalePctNevMarr,blackPerCap PctImmigRec8
+381,MedNumBR PctSameHouse85,racePctWhite PctVacantBoarded
+382,PctEmplManu PctVacantBoarded,pctWSocSec HousVacant
+383,HousVacant PctVacantBoarded,racePctAsian PctNotHSGrad
+384,PctEmplProfServ NumIlleg,PctFam2Par_10
+385,PctEmplProfServ PctSameHouse85,PctFam2Par PctImmigRec8
+386,PctEmplManu PctEmplProfServ,PctImmigRec5 PctVacantBoarded
+387,blackPerCap PctVacMore6Mos,PctRecentImmig PctSameHouse85
+388,MalePctNevMarr PctBornSameState,PctRecentImmig HousVacant
+389,PctYoungKids2Par LemasPctOfficDrugUn,racePctHisp agePct16t24
+390,indianPerCap MedYrHousBuilt,indianPerCap MalePctNevMarr
+391,PctSameHouse85 LemasPctOfficDrugUn,PctRecImmig5_10
+392,PctBornSameState LemasPctOfficDrugUn,numbUrban PctHousOccup
+393,indianPerCap NumInShelters,PctOccupManu PctHousOwnOcc
+394,pctWWage_9,PctHousLess3BR_10
+395,population MedOwnCostPctIncNoMtg,numbUrban PctOccupManu
+396,MalePctDivorce PctWOFullPlumb,PctHousOwnOcc PctUsePubTrans
+397,PctOccupManu PctWorkMom,blackPerCap LemasPctOfficDrugUn
+398,PctIlleg MedRent,MalePctNevMarr PctWorkMom
+399,PctPopUnderPov MedOwnCostPctIncNoMtg,racePctHisp PctSameHouse85
+400,PctNotHSGrad MedNumBR,PctImmigRec10_9
+401,PctEmplManu PctUsePubTrans,PctEmplManu PctSameState85
+402,population PctBornSameState,PctNotSpeakEnglWell MedRentPctHousInc
+403,agePct12t21 PctForeignBorn,indianPerCap PctSameState85
+404,OwnOccHiQuart LandArea,population PctYoungKids2Par
+405,pctWRetire PctForeignBorn,AsianPerCap PctImmigRec10
+406,PctHousOccup PctWOFullPlumb,pctWFarmSelf whitePerCap
+407,agePct65up OwnOccLowQuart,AsianPerCap NumInShelters
+408,pctUrban pctWRetire,PctHousLess3BR MedOwnCostPctIncNoMtg
+409,HousVacant OwnOccHiQuart,pctWWage PctEmplManu
+410,pctUrban PctEmplManu,indianPerCap PctWorkMomYoungKids
+411,MedYrHousBuilt MedOwnCostPctIncNoMtg,pctWWage AsianPerCap
+412,medIncome PctNotHSGrad,PctLess9thGrade NumStreet
+413,blackPerCap PctImmigRec8,indianPerCap OwnOccLowQuart
+414,racePctWhite PctVacantBoarded,MedNumBR PctVacMore6Mos
+415,pctWSocSec HousVacant,pctUrban PctWOFullPlumb
+416,racePctAsian PctNotHSGrad,pctUrban PctPersDenseHous
+417,PctFam2Par_10,PctUnemployed PctSameHouse85
+418,PctFam2Par PctImmigRec8,NumInShelters_10
+419,PctImmigRec5 PctVacantBoarded,PctImmigRecent OwnOccMedVal
+420,PctRecentImmig PctSameHouse85,whitePerCap PctImmigRec10
+421,PctRecentImmig HousVacant,PctUnemployed_9
+422,racePctHisp agePct16t24,blackPerCap_10
+423,indianPerCap MalePctNevMarr,pctWPubAsst OwnOccLowQuart
+424,PctRecImmig5_10,PctTeen2Par PctSpeakEnglOnly
+425,numbUrban PctHousOccup,pctUrban MedOwnCostPctInc
+426,PctOccupManu PctHousOwnOcc,PctWOFullPlumb MedRentPctHousInc
+427,PctHousLess3BR_10,NumIlleg PctVacantBoarded
+428,numbUrban PctOccupManu,pctWPubAsst_10
+429,PctHousOwnOcc PctUsePubTrans,NumUnderPov PctSameHouse85
+430,blackPerCap LemasPctOfficDrugUn,HispPerCap_10
+431,MalePctNevMarr PctWorkMom,PctImmigRecent PctBornSameState
+432,racePctHisp PctSameHouse85,PctEmplProfServ_10
+433,PctImmigRec10_9,NumStreet_7
+434,PctEmplManu PctSameState85,pctWRetire PctLess9thGrade
+435,PctNotSpeakEnglWell MedRentPctHousInc,PctTeen2Par LandArea
+436,indianPerCap PctSameState85,RentMedian PctUsePubTrans
+437,population PctYoungKids2Par,racePctAsian MedOwnCostPctInc
+438,AsianPerCap PctImmigRec10,MalePctDivorce MedOwnCostPctIncNoMtg
+439,pctWFarmSelf whitePerCap,PctOccupManu OwnOccHiQuart
+440,AsianPerCap NumInShelters,racepctblack PctYoungKids2Par
+441,PctHousLess3BR MedOwnCostPctIncNoMtg,PctBSorMore PctSameCity85
+442,pctWWage PctEmplManu,population NumStreet
+443,indianPerCap PctWorkMomYoungKids,MalePctDivorce LemasPctOfficDrugUn
+444,pctWWage AsianPerCap,PctImmigRec5 MedOwnCostPctIncNoMtg
+445,PctLess9thGrade NumStreet,PctOccupManu MedNumBR
+446,indianPerCap OwnOccLowQuart,householdsize agePct65up
+447,MedNumBR PctVacMore6Mos,racePctAsian PctPersDenseHous
+448,pctUrban PctWOFullPlumb,PctTeen2Par LemasPctOfficDrugUn
+449,pctUrban PctPersDenseHous,pctUrban PctBSorMore
+450,PctUnemployed PctSameHouse85,PctImmigRec5 PctLargHouseOccup
+451,NumInShelters_10,PctImmigRec5 MedOwnCostPctInc
+452,PctImmigRecent OwnOccMedVal,HousVacant PctBornSameState
+453,whitePerCap PctImmigRec10,blackPerCap MedRentPctHousInc
+454,PctUnemployed_9,PctImmigRec8 PctHousNoPhone
+455,blackPerCap_10,PctLess9thGrade PctOccupMgmtProf
+456,pctWPubAsst OwnOccLowQuart,PctEmplProfServ PctWorkMomYoungKids
+457,PctTeen2Par PctSpeakEnglOnly,medFamInc PctSameState85
+458,pctUrban MedOwnCostPctInc,pctWSocSec PctSameCity85
+459,PctWOFullPlumb MedRentPctHousInc,HousVacant MedYrHousBuilt
+460,NumIlleg PctVacantBoarded,PctSameCity85 PopDens
+461,pctWPubAsst_10,MedNumBR PctSameState85
+462,NumUnderPov PctSameHouse85,PctSpeakEnglOnly PersPerRentOccHous
+463,HispPerCap_10,PersPerRentOccHous PctVacMore6Mos
+464,PctImmigRecent PctBornSameState,PctPopUnderPov PctPersOwnOccup
+465,PctEmplProfServ_10,HispPerCap PctSameHouse85
+466,NumStreet_7,agePct12t29 PctOccupManu
+467,pctWRetire PctLess9thGrade,numbUrban PctVacMore6Mos
+468,PctTeen2Par LandArea,NumUnderPov OwnOccMedVal
+469,RentMedian PctUsePubTrans,PersPerOwnOccHous MedOwnCostPctIncNoMtg
+470,racePctAsian MedOwnCostPctInc,PctImmigRec5 PctHousOwnOcc
+471,MalePctDivorce MedOwnCostPctIncNoMtg,PctImmigRecent MedOwnCostPctInc
+472,PctOccupManu OwnOccHiQuart,PctPersOwnOccup_10
+473,racepctblack PctYoungKids2Par,PctNotHSGrad PctImmigRec10
+474,PctBSorMore PctSameCity85,PctVacMore6Mos MedOwnCostPctIncNoMtg
+475,population NumStreet,racePctHisp PctHousNoPhone
+476,MalePctDivorce LemasPctOfficDrugUn,PctWorkMom PctHousNoPhone
+477,PctImmigRec5 MedOwnCostPctIncNoMtg,PersPerRentOccHous MedYrHousBuilt
+478,PctOccupManu MedNumBR,PctEmplManu PctTeen2Par
+479,householdsize agePct65up,PctSameHouse85_2
+480,racePctAsian PctPersDenseHous,PersPerOccupHous RentLowQ
+481,PctTeen2Par LemasPctOfficDrugUn,PctEmplManu PctIlleg
+482,pctUrban PctBSorMore,agePct12t29 PctImmigRec8
+483,PctImmigRec5 PctLargHouseOccup,PersPerOccupHous PctSameHouse85
+484,PctImmigRec5 MedOwnCostPctInc,HispPerCap PctEmploy
+485,HousVacant PctBornSameState,PctSpeakEnglOnly LemasPctOfficDrugUn
+486,blackPerCap MedRentPctHousInc,pctWFarmSelf PctSpeakEnglOnly
+487,PctImmigRec8 PctHousNoPhone,PctWorkMom NumIlleg
+488,PctLess9thGrade PctOccupMgmtProf,MedNumBR_9
+489,PctEmplProfServ PctWorkMomYoungKids,pctWFarmSelf HousVacant
+490,medFamInc PctSameState85,numbUrban PctIlleg
+491,pctWSocSec PctSameCity85,PctForeignBorn PctBornSameState
+492,HousVacant MedYrHousBuilt,FemalePctDiv PctVacMore6Mos
+493,PctSameCity85 PopDens,PctImmigRecent PctLargHouseFam
+494,MedNumBR PctSameState85,blackPerCap AsianPerCap
+495,PctSpeakEnglOnly PersPerRentOccHous,PctEmploy PctImmigRecent
+496,PersPerRentOccHous PctVacMore6Mos,PctPersDenseHous OwnOccHiQuart
+497,PctPopUnderPov PctPersOwnOccup,agePct12t21 MalePctDivorce
+498,HispPerCap PctSameHouse85,agePct12t29 PctUnemployed
+499,agePct12t29 PctOccupManu,pctWRetire OwnOccHiQuart
+500,numbUrban PctVacMore6Mos,PersPerOwnOccHous HousVacant
+501,NumUnderPov OwnOccMedVal,racepctblack NumStreet
+502,PersPerOwnOccHous MedOwnCostPctIncNoMtg,racePctWhite PopDens
+503,PctImmigRec5 PctHousOwnOcc,pctWPubAsst MalePctDivorce
+504,PctImmigRecent MedOwnCostPctInc,PctHousNoPhone PctSameState85
+505,PctPersOwnOccup_10,pctUrban PctImmigRecent
+506,PctNotHSGrad PctImmigRec10,medIncome PctWorkMomYoungKids
+507,PctVacMore6Mos MedOwnCostPctIncNoMtg,agePct65up pctWFarmSelf
+508,racePctHisp PctHousNoPhone,RentLowQ MedRentPctHousInc
+509,PctWorkMom PctHousNoPhone,pctWWage pctWRetire
+510,PersPerRentOccHous MedYrHousBuilt,PctSameHouse85 PctSameCity85
+511,PctEmplManu PctTeen2Par,PctIlleg MedOwnCostPctInc
+512,PctSameHouse85_2,pctUrban MedYrHousBuilt
+513,PersPerOccupHous RentLowQ,PctSameState85 LandArea
+514,PctEmplManu PctIlleg,pctWWage PctEmplProfServ
+515,agePct12t29 PctImmigRec8,PctTeen2Par PctIlleg
+516,PersPerOccupHous PctSameHouse85,PctYoungKids2Par PctRecentImmig
+517,HispPerCap PctEmploy,pctWSocSec pctWRetire
+518,PctSpeakEnglOnly LemasPctOfficDrugUn,PctPersDenseHous_9
+519,pctWFarmSelf PctSpeakEnglOnly,PctYoungKids2Par PersPerRentOccHous
+520,PctWorkMom NumIlleg,pctWPubAsst_9
+521,MedNumBR_9,PctHousNoPhone PctForeignBorn
+522,pctWFarmSelf HousVacant,pctWRetire NumInShelters
+523,numbUrban PctIlleg,NumIlleg MedOwnCostPctIncNoMtg
+524,PctForeignBorn PctBornSameState,PctOccupMgmtProf PctVacantBoarded
+525,FemalePctDiv PctVacMore6Mos,NumIlleg MedOwnCostPctInc
+526,PctImmigRecent PctLargHouseFam,pctWInvInc PctVacantBoarded
+527,blackPerCap AsianPerCap,PctVacMore6Mos_10
+528,PctEmploy PctImmigRecent,MalePctNevMarr FemalePctDiv
+529,PctPersDenseHous OwnOccHiQuart,racepctblack_10
+530,agePct12t21 MalePctDivorce,pctWRetire MedYrHousBuilt
+531,agePct12t29 PctUnemployed,racePctAsian MedRentPctHousInc
+532,pctWRetire OwnOccHiQuart,PctPersOwnOccup PopDens
+533,PersPerOwnOccHous HousVacant,PctWorkMom LemasPctOfficDrugUn
+534,racepctblack NumStreet,PctWorkMomYoungKids PopDens
+535,racePctWhite PopDens,PctIlleg PctSpeakEnglOnly
+536,pctWPubAsst MalePctDivorce,MalePctNevMarr PctYoungKids2Par
+537,PctHousNoPhone PctSameState85,NumIlleg PctHousOwnOcc
+538,pctUrban PctImmigRecent,PctNotHSGrad PctPersOwnOccup
+539,medIncome PctWorkMomYoungKids,PctSameCity85_9
+540,agePct65up pctWFarmSelf,PersPerOwnOccHous OwnOccHiQuart
+541,RentLowQ MedRentPctHousInc,racePctAsian PctEmplProfServ
+542,pctWWage pctWRetire,pctWSocSec pctWPubAsst
+543,PctSameHouse85 PctSameCity85,agePct12t29 pctWFarmSelf
+544,PctIlleg MedOwnCostPctInc,PctWorkMomYoungKids LandArea
+545,pctUrban MedYrHousBuilt,PctLess9thGrade PctWorkMomYoungKids
+546,PctSameState85 LandArea,RentLowQ LandArea
+547,pctWWage PctEmplProfServ,householdsize indianPerCap
+548,PctTeen2Par PctIlleg,PctEmplManu PctLargHouseOccup
+549,PctYoungKids2Par PctRecentImmig,pctUrban PctSameState85
+550,pctWSocSec pctWRetire,PctEmplManu PersPerOwnOccHous
+551,PctPersDenseHous_9,PctWorkMom MedRentPctHousInc
+552,PctYoungKids2Par PersPerRentOccHous,agePct65up PctYoungKids2Par
+553,pctWPubAsst_9,medFamInc PctEmplManu
+554,PctHousNoPhone PctForeignBorn,pctWPubAsst MedRentPctHousInc
+555,pctWRetire NumInShelters,PctImmigRec10 PersPerOwnOccHous
+556,NumIlleg MedOwnCostPctIncNoMtg,PctWorkMom PctImmigRec8
+557,PctOccupMgmtProf PctVacantBoarded,HispPerCap PctWorkMomYoungKids
+558,NumIlleg MedOwnCostPctInc,racePctWhite MalePctNevMarr
+559,pctWInvInc PctVacantBoarded,RentHighQ PctSameState85
+560,PctVacMore6Mos_10,agePct65up indianPerCap
+561,MalePctNevMarr FemalePctDiv,racePctAsian pctUrban
+562,racepctblack_10,PctPersDenseHous PctBornSameState
+563,pctWRetire MedYrHousBuilt,population PctEmplManu
+564,racePctAsian MedRentPctHousInc,PctImmigRec8 PctPersOwnOccup
+565,PctPersOwnOccup PopDens,pctWFarmSelf PctYoungKids2Par
+566,PctWorkMom LemasPctOfficDrugUn,racePctAsian PctSameCity85
+567,PctWorkMomYoungKids PopDens,agePct12t29 pctUrban
+568,PctIlleg PctSpeakEnglOnly,PctImmigRec10 NumStreet
+569,MalePctNevMarr PctYoungKids2Par,pctWWage PctImmigRecent
+570,NumIlleg PctHousOwnOcc,PctEmploy PctWorkMom
+571,PctNotHSGrad PctPersOwnOccup,indianPerCap PctVacMore6Mos
+572,PctSameCity85_9,agePct16t24 perCapInc
+573,PersPerOwnOccHous OwnOccHiQuart,pctWInvInc_10
+574,racePctAsian PctEmplProfServ,blackPerCap NumIlleg
+575,pctWSocSec pctWPubAsst,agePct12t29 PctUsePubTrans
+576,agePct12t29 pctWFarmSelf,PctIlleg PersPerOwnOccHous
+577,PctWorkMomYoungKids LandArea,racepctblack PctPersOwnOccup
+578,PctLess9thGrade PctWorkMomYoungKids,pctWPubAsst PctImmigRecent
+579,RentLowQ LandArea,agePct12t29 indianPerCap
+580,householdsize indianPerCap,pctWInvInc LemasPctOfficDrugUn
+581,PctEmplManu PctLargHouseOccup,PctEmploy PctPersDenseHous
+582,pctUrban PctSameState85,pctWPubAsst NumImmig
+583,PctEmplManu PersPerOwnOccHous,NumIlleg PctBornSameState
+584,PctWorkMom MedRentPctHousInc,indianPerCap PctPersDenseHous
+585,agePct65up PctYoungKids2Par,PctKids2Par RentLowQ
+586,medFamInc PctEmplManu,indianPerCap NumImmig
+587,pctWPubAsst MedRentPctHousInc,racepctblack PctUsePubTrans
+588,PctImmigRec10 PersPerOwnOccHous,racePctWhite MedNumBR
+589,PctWorkMom PctImmigRec8,PctUnemployed PctVacantBoarded
+590,HispPerCap PctWorkMomYoungKids,PctImmigRec5 HousVacant
+591,racePctWhite MalePctNevMarr,PctPersDenseHous_10
+592,RentHighQ PctSameState85,LandArea LemasPctOfficDrugUn
+593,agePct65up indianPerCap,PctNotHSGrad PctTeen2Par
+594,racePctAsian pctUrban,agePct12t21 pctWRetire
+595,PctPersDenseHous PctBornSameState,racePctHisp agePct65up
+596,population PctEmplManu,pctWFarmSelf MedNumBR
+597,PctImmigRec8 PctPersOwnOccup,agePct12t21 PersPerRentOccHous
+598,pctWFarmSelf PctYoungKids2Par,FemalePctDiv LemasPctOfficDrugUn
+599,racePctAsian PctSameCity85,PctNotSpeakEnglWell MedOwnCostPctIncNoMtg
+600,agePct12t29 pctUrban,PctOccupManu OwnOccLowQuart
+601,PctImmigRec10 NumStreet,PersPerOccupHous_5
+602,pctWWage PctImmigRecent,FemalePctDiv MedNumBR
+603,PctEmploy PctWorkMom,PctEmplProfServ MalePctDivorce
+604,indianPerCap PctVacMore6Mos,pctWSocSec PctSameHouse85
+605,agePct16t24 perCapInc,racePctAsian_5
+606,pctWInvInc_10,pctUrban PctPersOwnOccup
+607,blackPerCap NumIlleg,PctEmplProfServ PctHousOwnOcc
+608,agePct12t29 PctUsePubTrans,PctEmploy_5
+609,PctIlleg PersPerOwnOccHous,pctWRetire PctRecentImmig
+610,racepctblack PctPersOwnOccup,PctNotHSGrad_10
+611,pctWPubAsst PctImmigRecent,pctWSocSec PctEmplManu
+612,agePct12t29 indianPerCap,PctBSorMore PopDens
+613,pctWInvInc LemasPctOfficDrugUn,MedOwnCostPctIncNoMtg_9
+614,PctEmploy PctPersDenseHous,PctHousNoPhone PopDens
+615,pctWPubAsst NumImmig,pctUrban LandArea
+616,NumIlleg PctBornSameState,NumStreet_10
+617,indianPerCap PctPersDenseHous,PctEmplProfServ TotalPctDiv
+618,PctKids2Par RentLowQ,RentHighQ_5
+619,indianPerCap NumImmig,PctImmigRec8 MedRentPctHousInc
+620,racepctblack PctUsePubTrans,racePctHisp MalePctNevMarr
+621,racePctWhite MedNumBR,PctLess9thGrade PctImmigRec8
+622,PctUnemployed PctVacantBoarded,racePctAsian RentLowQ
+623,PctImmigRec5 HousVacant,NumUnderPov PctImmigRec10
+624,PctPersDenseHous_10,pctWPubAsst PctIlleg
+625,LandArea LemasPctOfficDrugUn,racepctblack PctImmigRecent
+626,PctNotHSGrad PctTeen2Par,HispPerCap PctPersOwnOccup
+627,agePct12t21 pctWRetire,PctForeignBorn_10
+628,racePctHisp agePct65up,agePct16t24 PctEmplManu
+629,pctWFarmSelf MedNumBR,pctWFarmSelf PctOccupManu
+630,agePct12t21 PersPerRentOccHous,racePctHisp PctVacMore6Mos
+631,FemalePctDiv LemasPctOfficDrugUn,pctWInvInc HispPerCap
+632,PctNotSpeakEnglWell MedOwnCostPctIncNoMtg,RentHighQ PctSameCity85
+633,PctOccupManu OwnOccLowQuart,PctPersOwnOccup PctVacMore6Mos
+634,PersPerOccupHous_5,PersPerRentOccHous MedRentPctHousInc
+635,FemalePctDiv MedNumBR,pctWWage PctHousNoPhone
+636,PctEmplProfServ MalePctDivorce,householdsize PctVacantBoarded
+637,pctWSocSec PctSameHouse85,PctOccupManu RentHighQ
+638,racePctAsian_5,PctNotHSGrad PctWorkMomYoungKids
+639,pctUrban PctPersOwnOccup,medFamInc_10
+640,PctEmplProfServ PctHousOwnOcc,pctWSocSec PersPerRentOccHous
+641,PctEmploy_5,medFamInc MedOwnCostPctInc
+642,pctWRetire PctRecentImmig,indianPerCap PctHousNoPhone
+643,PctNotHSGrad_10,racePctAsian PctHousNoPhone
+644,pctWSocSec PctEmplManu,FemalePctDiv PctRecImmig8
+645,PctBSorMore PopDens,PctVacantBoarded NumStreet
+646,MedOwnCostPctIncNoMtg_9,PctHousLess3BR PctVacMore6Mos
+647,PctHousNoPhone PopDens,PctPopUnderPov PctHousOccup
+648,pctUrban LandArea,pctWFarmSelf RentHighQ
+649,NumStreet_10,racepctblack perCapInc
+650,PctEmplProfServ TotalPctDiv,PctOccupManu RentLowQ
+651,RentHighQ_5,NumUnderPov PctEmploy
+652,PctImmigRec8 MedRentPctHousInc,pctWRetire PctTeen2Par
+653,racePctHisp MalePctNevMarr,PctHousNoPhone RentLowQ
+654,PctLess9thGrade PctImmigRec8,PctUnemployed PctSpeakEnglOnly
+655,racePctAsian RentLowQ,FemalePctDiv PctImmigRec5
+656,NumUnderPov PctImmigRec10,agePct16t24 AsianPerCap
+657,pctWPubAsst PctIlleg,PctHousLess3BR_9
+658,racepctblack PctImmigRecent,PersPerOwnOccHous_10
+659,HispPerCap PctPersOwnOccup,PctTeen2Par NumInShelters
+660,PctForeignBorn_10,PctEmplProfServ_5
+661,agePct16t24 PctEmplManu,PctRecImmig5 MedNumBR
+662,pctWFarmSelf PctOccupManu,MedNumBR PctWOFullPlumb
+663,racePctHisp PctVacMore6Mos,pctWWage MedOwnCostPctInc
+664,pctWInvInc HispPerCap,numbUrban PctHousOwnOcc
+665,RentHighQ PctSameCity85,PctHousLess3BR PctVacantBoarded
+666,PctPersOwnOccup PctVacMore6Mos,PctOccupMgmtProf RentLowQ
+667,PersPerRentOccHous MedRentPctHousInc,PctOccupManu HousVacant
+668,pctWWage PctHousNoPhone,PctWorkMom PctImmigRec10
+669,householdsize PctVacantBoarded,pctWPubAsst PctUnemployed
+670,PctOccupManu RentHighQ,pctWRetire PctWorkMom
+671,PctNotHSGrad PctWorkMomYoungKids,PctImmigRec10 PctHousOccup
+672,medFamInc_10,PctVacMore6Mos PctSameState85
+673,pctWSocSec PersPerRentOccHous,MalePctNevMarr PctWOFullPlumb
+674,medFamInc MedOwnCostPctInc,racePctAsian pctWInvInc
+675,indianPerCap PctHousNoPhone,population PctImmigRec5
+676,racePctAsian PctHousNoPhone,PctUnemployed PctLargHouseOccup
+677,FemalePctDiv PctRecImmig8,perCapInc PctImmigRecent
+678,PctVacantBoarded NumStreet,TotalPctDiv_5
+679,PctHousLess3BR PctVacMore6Mos,perCapInc PctLargHouseFam
+680,PctPopUnderPov PctHousOccup,PctPersOwnOccup PctHousLess3BR
+681,pctWFarmSelf RentHighQ,pctWInvInc PctSameCity85
+682,racepctblack perCapInc,agePct16t24 NumUnderPov
+683,PctOccupManu RentLowQ,racePctAsian AsianPerCap
+684,NumUnderPov PctEmploy,MedOwnCostPctInc PctSameCity85
+685,pctWRetire PctTeen2Par,PctIlleg PctHousOwnOcc
+686,PctHousNoPhone RentLowQ,racePctWhite PctNotHSGrad
+687,PctUnemployed PctSpeakEnglOnly,whitePerCap PctNotHSGrad
+688,FemalePctDiv PctImmigRec5,indianPerCap PctNotHSGrad
+689,agePct16t24 AsianPerCap,PctForeignBorn PopDens
+690,PctHousLess3BR_9,racepctblack PctVacMore6Mos
+691,PersPerOwnOccHous_10,householdsize PctSameCity85
+692,PctTeen2Par NumInShelters,agePct65up_8
+693,PctEmplProfServ_5,NumImmig PctNotSpeakEnglWell
+694,PctRecImmig5 MedNumBR,agePct65up whitePerCap
+695,MedNumBR PctWOFullPlumb,pctWInvInc PctIlleg
+696,pctWWage MedOwnCostPctInc,PctVacMore6Mos PctHousNoPhone
+697,numbUrban PctHousOwnOcc,MedNumBR PctSameCity85
+698,PctHousLess3BR PctVacantBoarded,population PctHousLess3BR
+699,PctOccupMgmtProf RentLowQ,population PctHousNoPhone
+700,PctOccupManu HousVacant,pctWInvInc FemalePctDiv
+701,PctWorkMom PctImmigRec10,agePct65up MedOwnCostPctInc
+702,pctWPubAsst PctUnemployed,agePct65up OwnOccMedVal
+703,pctWRetire PctWorkMom,AsianPerCap PctOccupMgmtProf
+704,PctImmigRec10 PctHousOccup,PctRecImmig10_5
+705,PctVacMore6Mos PctSameState85,PctWorkMom PctHousOccup
+706,MalePctNevMarr PctWOFullPlumb,PctHousNoPhone PctWOFullPlumb
+707,racePctAsian pctWInvInc,pctWInvInc PctOccupManu
+708,population PctImmigRec5,racePctWhite racePctAsian
+709,PctUnemployed PctLargHouseOccup,racePctAsian LemasPctOfficDrugUn
+710,perCapInc PctImmigRecent,blackPerCap MedNumBR
+711,TotalPctDiv_5,racePctHisp HispPerCap
+712,perCapInc PctLargHouseFam,PctTeen2Par PctImmigRec10
+713,PctPersOwnOccup PctHousLess3BR,PctFam2Par LemasPctOfficDrugUn
+714,pctWInvInc PctSameCity85,blackPerCap PctLargHouseFam
+715,agePct16t24 NumUnderPov,PctKids2Par OwnOccLowQuart
+716,racePctAsian AsianPerCap,racePctHisp agePct12t29
+717,MedOwnCostPctInc PctSameCity85,PctHousNoPhone MedOwnCostPctInc
+718,PctIlleg PctHousOwnOcc,PctFam2Par PctVacantBoarded
+719,racePctWhite PctNotHSGrad,medIncome PctImmigRecent
+720,whitePerCap PctNotHSGrad,pctWInvInc LandArea
+721,indianPerCap PctNotHSGrad,PctHousNoPhone_10
+722,PctForeignBorn PopDens,PctImmigRec10 PctUsePubTrans
+723,racepctblack PctVacMore6Mos,PctEmplProfServ PopDens
+724,householdsize PctSameCity85,PctOccupMgmtProf PctPersDenseHous
+725,agePct65up_8,PctWorkMomYoungKids PctImmigRec5
+726,NumImmig PctNotSpeakEnglWell,pctWSocSec PctHousOccup
+727,agePct65up whitePerCap,PctWorkMomYoungKids PersPerRentOccHous
+728,pctWInvInc PctIlleg,NumUnderPov MedOwnCostPctInc
+729,PctVacMore6Mos PctHousNoPhone,racePctHisp PctImmigRec10
+730,MedNumBR PctSameCity85,HispPerCap PctBSorMore
+731,population PctHousLess3BR,PctVacMore6Mos MedYrHousBuilt
+732,population PctHousNoPhone,PctImmigRecent PctSameCity85
+733,pctWInvInc FemalePctDiv,PctNotHSGrad PctBSorMore
+734,agePct65up MedOwnCostPctInc,indianPerCap LandArea
+735,agePct65up OwnOccMedVal,PctLargHouseFam MedYrHousBuilt
+736,AsianPerCap PctOccupMgmtProf,agePct16t24 MedYrHousBuilt
+737,PctRecImmig10_5,PctUnemployed PctSameCity85
+738,PctWorkMom PctHousOccup,agePct16t24 PctEmplProfServ
+739,PctHousNoPhone PctWOFullPlumb,PctYoungKids2Par PctIlleg
+740,pctWInvInc PctOccupManu,householdsize MedOwnCostPctIncNoMtg
+741,racePctWhite racePctAsian,pctWFarmSelf PctTeen2Par
+742,racePctAsian LemasPctOfficDrugUn,PctUnemployed TotalPctDiv
+743,blackPerCap MedNumBR,racepctblack medIncome
+744,racePctHisp HispPerCap,PctSpeakEnglOnly PctVacantBoarded
+745,PctTeen2Par PctImmigRec10,PctSpeakEnglOnly PctVacMore6Mos
+746,PctFam2Par LemasPctOfficDrugUn,agePct12t21 NumUnderPov
+747,blackPerCap PctLargHouseFam,pctWFarmSelf RentLowQ
+748,PctKids2Par OwnOccLowQuart,PctVacMore6Mos MedOwnCostPctInc
+749,racePctHisp agePct12t29,racepctblack PctImmigRec8
+750,PctHousNoPhone MedOwnCostPctInc,PctEmploy PctForeignBorn
+751,PctFam2Par PctVacantBoarded,FemalePctDiv PctHousOccup
+752,medIncome PctImmigRecent,indianPerCap PctOccupMgmtProf
+753,pctWInvInc LandArea,indianPerCap PctOccupManu
+754,PctHousNoPhone_10,blackPerCap PctPopUnderPov
+755,PctImmigRec10 PctUsePubTrans,NumIlleg OwnOccMedVal
+756,PctEmplProfServ PopDens,PctUnemployed PctHousOccup
+757,PctOccupMgmtProf PctPersDenseHous,PctEmploy PctVacMore6Mos
+758,PctWorkMomYoungKids PctImmigRec5,PctUnemployed MedYrHousBuilt
+759,pctWSocSec PctHousOccup,HispPerCap PctHousNoPhone
+760,PctWorkMomYoungKids PersPerRentOccHous,PctYoungKids2Par PctImmigRec8
+761,NumUnderPov MedOwnCostPctInc,PctLess9thGrade PopDens
+762,racePctHisp PctImmigRec10,racePctAsian pctWWage
+763,HispPerCap PctBSorMore,agePct16t24 RentLowQ
+764,PctVacMore6Mos MedYrHousBuilt,pctWFarmSelf HispPerCap
+765,PctImmigRecent PctSameCity85,MalePctDivorce OwnOccLowQuart
+766,PctNotHSGrad PctBSorMore,PctUnemployed PctImmigRecent
+767,indianPerCap LandArea,pctWRetire NumImmig
+768,PctLargHouseFam MedYrHousBuilt,numbUrban PctImmigRec10
+769,agePct16t24 MedYrHousBuilt,pctWRetire PctEmplManu
+770,PctUnemployed PctSameCity85,PctPopUnderPov PctVacantBoarded
+771,agePct16t24 PctEmplProfServ,pctWRetire PctPersOwnOccup
+772,PctYoungKids2Par PctIlleg,AsianPerCap PctVacMore6Mos
+773,householdsize MedOwnCostPctIncNoMtg,AsianPerCap OwnOccLowQuart
+774,pctWFarmSelf PctTeen2Par,population agePct12t29
+775,PctUnemployed TotalPctDiv,PctEmplProfServ PctImmigRec8
+776,racepctblack medIncome,pctUrban PctRecImmig5
+777,PctSpeakEnglOnly PctVacantBoarded,PctRecImmig5 PctPersDenseHous
+778,PctSpeakEnglOnly PctVacMore6Mos,PctEmplProfServ PctRecImmig10
+779,agePct12t21 NumUnderPov,PctHousLess3BR MedNumBR
+780,pctWFarmSelf RentLowQ,MalePctDivorce MedRentPctHousInc
+781,PctVacMore6Mos MedOwnCostPctInc,PctPopUnderPov LemasPctOfficDrugUn
+782,racepctblack PctImmigRec8,PctHousNoPhone NumStreet
+783,PctEmploy PctForeignBorn,PctLess9thGrade OwnOccHiQuart
+784,FemalePctDiv PctHousOccup,PctNotSpeakEnglWell_5
+785,indianPerCap PctOccupMgmtProf,pctWRetire PctWOFullPlumb
+786,indianPerCap PctOccupManu,NumImmig PctSameState85
+787,blackPerCap PctPopUnderPov,agePct65up PctVacantBoarded
+788,NumIlleg OwnOccMedVal,PctLess9thGrade PctVacantBoarded
+789,PctUnemployed PctHousOccup,PctLess9thGrade PctWOFullPlumb
+790,PctEmploy PctVacMore6Mos,PctWorkMom MedRent
+791,PctUnemployed MedYrHousBuilt,PctOccupManu PctUsePubTrans
+792,HispPerCap PctHousNoPhone,agePct65up MalePctNevMarr
+793,PctYoungKids2Par PctImmigRec8,HispPerCap PctVacantBoarded
+794,PctLess9thGrade PopDens,racePctHisp PctLess9thGrade
+795,racePctAsian pctWWage,pctWWage PctIlleg
+796,agePct16t24 RentLowQ,PctOccupManu PctHousOccup
+797,pctWFarmSelf HispPerCap,pctWFarmSelf perCapInc
+798,MalePctDivorce OwnOccLowQuart,pctWFarmSelf NumIlleg
+799,PctUnemployed PctImmigRecent,PctHousNoPhone RentMedian
+800,pctWRetire NumImmig,PctImmigRec8 PctWOFullPlumb
